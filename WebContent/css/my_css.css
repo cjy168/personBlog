@@ -1,0 +1,89 @@
+.MY_fontSize1{
+	font-size:18px ;
+}
+.MY_fontSize2{
+	font-size:25px ;
+}
+.MY_fontSize3{
+	font-size:16px ;
+}
+.MY_fontSize4{
+	font-size:17px ;
+}
+.MY_divbordertop{
+	border-top: 1px yellow solid;
+	margin-top: 5px;
+	padding-top: 15px ;
+}
+.MY_divborder{
+	border: 1px solid #EEA236;
+	background-color: blanchedalmond;
+	border-radius: 5px;
+	padding: 15px;
+}
+.MY_divpadding{
+	padding: 20px;
+}
+.MY_divpadding2{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+td{
+	text-align: center
+}
+.My_hr1{
+	border-top:5px dashed #F0AD4E;
+}
+.My_hr2{
+	border-top:1px solid #5E5E5E;
+}
+body{
+	/* #D9EDF7 */
+	background-color:lightgoldenrodyellow;
+}
+.MY_textarea{
+	background-color: lightgoldenrodyellow;
+	outline: none;
+	padding: 10px;
+	border-radius: 10px;
+	
+}
+.MY_div1{
+	padding: 10px;
+}
+.MY_divright{
+	text-align: right;
+	padding-right: 20px;
+}
+
+.MY_span{
+	font-size: 20px;
+	margin: 10px;
+}
+
+.My_ppadding{
+	
+	padding: 20px;	
+}
+p{
+	text-indent: 2em;
+}
+
+.MY_input{
+	outline: none;
+	background-color: lightgoldenrodyellow;
+}
+
+.MY_table{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
